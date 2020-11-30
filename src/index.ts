@@ -56,3 +56,5 @@ export { default as FunnelChart } from './chart/FunnelChart';
 export { default as Trapezoid } from './shape/Trapezoid';
 
 export { default as Global } from './util/Global';
+
+export { getDomainOfDataByKey } from './util/ChartUtils';
